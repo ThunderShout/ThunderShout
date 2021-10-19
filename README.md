@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThunderShout
 - 👀 I’m interested in learn everything i can
-- 🌱 I’m currently learning C, C#, JavaScript and Java
+- 🌱 I’m currently learning Pyhton, Java, C# and in the future C++ to make some games
 - 💞️ I’m looking to collaborate on projects that i can learn something 
 - 📫 you can reach me on twitter @ThunderShout
 
