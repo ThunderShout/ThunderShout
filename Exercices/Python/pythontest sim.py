@@ -1,18 +1,44 @@
-print ("questionário simples")
-print ("O teste possui 10 questões\n Durante todo o teste você será informado quantas questões restam")
+print ("Quiz \nO teste possui 5 questões")
 nl = 5
-p = "a"
-while nl != 1:
-    nl = nl-1
-    print(p)
-    lres = str(input())
+ptn = 0
+lres = None
+while nl != 0:
     if nl == 5:
-        p = "Qual a Cor do Céu ?"
+        print("Qual a Cor do Céu ?")
+        if lres.islower() == "azul":
+            print("resposta Correta!")
+            ptn = ptn +1
+        else:
+            print("resposta Errada!")
     elif nl == 4:
-        p = "Qual a cor do sangue ?"
+        print("Qual a cor do sangue ?")
+        if lres.islower() == "vermelho":
+            print("Resposta Correta!")
+            ptn = ptn +1
+        else:
+            print("Resposta Errada!")
     elif nl == 3:
-        p = "Com quantos anos se é considerado maior de idade ?"
+        print("Com quantos anos se é considerado maior de idade ?")
+        if lres == 18:
+            print("Resposta Correta!")
+            ptn = ptn +1
+        else:
+            print("Resposta Errada!")
     elif nl == 2:
-        p = "Qual é a Cor da Casca da melancia ?"
+        print("Qual é a Cor da Casca da melancia ?")
+        if lres.islower() == "verde":
+            print("Resposta Certa!")
+            ptn = ptn +1
+        else:
+            print("Resposta Errada!")
     elif nl == 1:
-        p = "qual o principal ingrediente do pão de batata ?"
+        print("qual o principal ingrediente do pão de batata ?")
+        if lres.islower() == "batata":
+            print("Resposta Correta!")
+            ptn = ptn +1
+        else:
+            print("Resposta Errada!")
+    elif nl == 0:
+        print("você acertou "+ptn+" questões")
+        print("fim do teste!")
+    nl = nl-1
