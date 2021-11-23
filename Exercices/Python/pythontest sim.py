@@ -1,44 +1,51 @@
 print ("Quiz \nO teste possui 5 questões")
-nl = 5
-ptn = 0
-lres = None
-while nl != 0:
-    if nl == 5:
-        print("Qual a Cor do Céu ?")
-        if lres.islower() == "azul":
-            print("resposta Correta!")
-            ptn = ptn +1
-        else:
-            print("resposta Errada!")
-    elif nl == 4:
-        print("Qual a cor do sangue ?")
-        if lres.islower() == "vermelho":
-            print("Resposta Correta!")
-            ptn = ptn +1
-        else:
-            print("Resposta Errada!")
-    elif nl == 3:
-        print("Com quantos anos se é considerado maior de idade ?")
-        if lres == 18:
-            print("Resposta Correta!")
-            ptn = ptn +1
-        else:
-            print("Resposta Errada!")
-    elif nl == 2:
-        print("Qual é a Cor da Casca da melancia ?")
-        if lres.islower() == "verde":
-            print("Resposta Certa!")
-            ptn = ptn +1
-        else:
-            print("Resposta Errada!")
-    elif nl == 1:
-        print("qual o principal ingrediente do pão de batata ?")
-        if lres.islower() == "batata":
-            print("Resposta Correta!")
-            ptn = ptn +1
-        else:
-            print("Resposta Errada!")
-    elif nl == 0:
-        print("você acertou "+ptn+" questões")
-        print("fim do teste!")
-    nl = nl-1
+print ("1 - Qual a cor da casca de uma melancia completamente saudavel ?")
+resp1 = str(input())
+if resp1 == "verde":
+    print("Correto!")
+    totalptn = 1
+else:
+    print("Incorreto, a resposta correta é verde!")
+    totalptn = 0
+
+print("2 - Qual idade é considerada maioridade no brasil ?")
+resp2 = int(input())
+if resp2 == 18:
+    print("Correto!")
+    totalptn = totalptn +1
+else:
+    print("Incorreto, a resposta certa é 18")
+    totalptn = totalptn -1
+
+print("3 - Qual a sigla para associação brasileira de normas tecnicas ?")
+resp3 = str(input())
+if resp3 == "abnt":
+    print("Correto!")
+    totalptn = totalptn +1
+else:
+    print("Incorreto, a resposta certa é abnt")
+    totalptn = totalptn -1
+
+print("4 - Qual a função da memória de armazenamento ?")
+resp4 = str(input())
+if resp4 == "armazenar dados":
+    print("Correto!")
+    totalptn = totalptn +1
+else:
+    print("Incorreto, a resposta certa é armazenar dados")
+    totalptn = totalptn -1
+
+print("5 - Qual o DDD de são paulo ?")
+resp5 = int(input())
+if resp5 == 11:
+    print("Correto!")
+    totalptn = totalptn +1
+else:
+    print("Incorreto, a resposta certa é 11")
+    totalptn = totalptn -1
+
+print("Se chegou até aqui você esta no fim do teste, Parabéns!")
+print("Veja agora sua pontuação")
+print("Pontuação total:",totalptn)
+input()
+exit()
