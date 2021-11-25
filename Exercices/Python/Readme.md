@@ -1,1 +1,1 @@
-this folder is only for python random exercices
+Just some python exercises
