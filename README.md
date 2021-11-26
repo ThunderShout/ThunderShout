@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn everything i can
 - 🌱 I’m currently learning Pyhton, Java, C# and in the future C++ to make some games
 - 💞️ I’m looking to collaborate on projects that i can learn something 
-- 📫 you can reach me on twitter @thundershout and my discord ThunderShout#8988
+- 📫 you can reach me on my discord ThunderShout#8988
 
 <!---
 ThunderShout/ThunderShout is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
