@@ -2,7 +2,8 @@
 - 👀 I’m interested in learn everything i can
 - 🌱 I’m currently learning Pyhton, Java, C# and in the future C++ to make some games
 - 💞️ I’m looking to collaborate on projects that i can learn something 
-- 📫 you can reach me on my discord ThunderShout#8988, i'm always there<br>
+- 📫 you can reach me on my discord ThunderShout#8988, i'm always there
+- <br>
 - 👋 Olá, sou Thales também conhecido como @ThunderShout
 - 👀 Estou interessado em aprender tudo que puder
 - 🌱 Atualmente engajado em aprender Python, Java, C# e no futuro C++ para criar alguns jogos
