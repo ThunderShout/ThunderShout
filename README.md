@@ -8,7 +8,7 @@
 - 👀 Estou interessado em aprender tudo que puder
 - 🌱 Atualmente engajado em aprender Python, Java, C# e no futuro C++ para criar alguns jogos
 - 💞️ Procuro colaborar em projetos que possam me ensinar algo
-- 📫 Você pode me encontrar no meu Discord ThunderShout#8988, estou sempre por lá
+- 📫 Você pode me encontrar no meu Discord ThunderShout#8988, estou sempre por lá a 
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thundershout&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!---
