@@ -1,5 +1,4 @@
 - 👋 Olá, sou Thales também conhecido como @ThunderShout
-- 🏳‍🌈 Ele/Dele
 - 👀 Estou interessado em aprender tudo que puder
 - 🌱 Atualmente engajado em aprender Python, Java, C# e no futuro C++ para criar alguns jogos
 - 💞️ Procuro colaborar em projetos que possam me ensinar algo
