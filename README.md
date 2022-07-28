@@ -1,6 +1,6 @@
 - 👋 Olá, sou Thales também conhecido como @ThunderShout
-- 👀 Estou interessado em aprender tudo que puder
-- 🌱 Atualmente engajado em aprender Python, Java, C# e no futuro C++ para criar alguns jogos
+- 🤖 Entusiasta de tech, gosto de games, sci-fi, e quase tudo do gênero
+- 🌱 Estudando Python, C , C# e fazendo alguns projetos com arduino
 - 💞️ Procuro colaborar em projetos que possam me ensinar algo
 - 📫 Você pode me encontrar no meu Discord ThunderShout#8988, estou sempre por lá
 - ✨ Em meus repositórios é possivel encontrar meus futuros projetos e alguns exercicios
